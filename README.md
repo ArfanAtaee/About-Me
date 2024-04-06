@@ -10,3 +10,4 @@
 - 📫 How to reach me: [Email Me](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVVsvpsMDlDSnHvKcxNKVXQBLHmHtTQrlSVwzfHNKdgbBrbzSTmvwLfzSztNNpjXwmzrZB) Phone: 07459907542
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm 10 years old.
+- 🤹 My Skills: HTML, CSS, JS, TS, REACT, NEXT.JS, TAILWIND CSS, SCSS.
